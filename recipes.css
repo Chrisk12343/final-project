@@ -1,0 +1,25 @@
+h1{text-align: center;
+color: black;}
+nav{text-align: center;}
+.Recipes {
+    list-style-position: inside; 
+    text-align: center;         
+  }
+  .Drinks{
+  list-style-position: inside; 
+    text-align: right;          
+  }
+  body{
+    background-color: aqua;
+  }
+ 
+  h2{color: red;
+  font-style: italic;}
+  h3{color: white;font-style: inherit;}
+  h4{color: purple;font-style: italic;
+  text-align: right;}
+  p{color: black;font-style: initial;
+  text-align: center;}
+img{width: 30%;
+height: 300px;}
+  
